@@ -1,10 +1,10 @@
-[Adblock Plus 2.0]
-! List version 20140804
-! Version: 20140804
+[AutoProxy]
+! Version: 20140804a
 ! Title: [proxy]GFWList Plus
-! Last modified: 04 Aug 2014 10:20 UTC
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/list
+! Redirect: https://raw.githubusercontent.com/Firef0x/PanList/master/gfwlistplus.txt
+! Last Modified: 04 Aug 2014 17:20 UTC
 !------------------------------------------
 ! GFWList Plus 
 ! Last Modified: Sun, 8 Jun 2014 23:59:06 +0800
@@ -26,6 +26,7 @@
 ||bittorrent.am
 
 !--------------------CC--------------------
+!--StackOverflow/StackExchange CDN(See https://code.google.com/p/autoproxy-gfwlist/issues/detail?id=85)
 cdn.sstatic.net
 
 !--------------------DD--------------------
@@ -36,19 +37,13 @@ cdn.sstatic.net
 ||echocore.org
 
 !--------------------FF--------------------
-!--Net Disk
-||filepost.com
-!--Net Disk
-||filesonic.com
-!--Net Disk
-||fileupyours.com
 
 !--------------------GG--------------------
+!--MyEclipse
+||genuitec.com
 ||goo.gl
 ||googleadservices.com
 ||googletagservices.com
-!--MyEclipse
-||genuitec.com
 
 !--------------------HH--------------------
 
