@@ -1,9 +1,8 @@
-[AutoProxy]
+[AutoProxy 0.2.9]
 ! Version: 20140804a
 ! Title: [proxy]GFWList Plus
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/list
-! Redirect: https://raw.githubusercontent.com/Firef0x/PanList/master/gfwlistplus.txt
 ! Last Modified: 04 Aug 2014 17:20 UTC
 !------------------------------------------
 ! GFWList Plus 

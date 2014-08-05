@@ -1,10 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 20140804
+! Version: 20140805
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/list
-! Redirect: https://raw.githubusercontent.com/Firef0x/PanList/master/abplist.txt
-! Last Modified: 04 Aug 2014 18:30 UTC
+! Last Modified: 05 Aug 2014 08:30 UTC
 !------------------------------------------
 !---------------------通用广告规则
 !--工口网站
@@ -17,13 +16,13 @@
 !----------------(End)通用广告规则
 !---------------------特定广告规则
 !------网站统计代码
-||amung.
-||google-analytics.com$script
-||histats.
-||js.51.la
-||linezing.
+||amung.$third-party
+||google-analytics.com^$script
+||histats.$third-party
+||js.51.la^$third-party
+||linezing.$third-party
 ||redirect.simba.taobao.com
-||scorecardresearch.
+||scorecardresearch.$third-party
 !------网站分享代码
 !--Addthis
 ||addthis.$third-party
@@ -35,8 +34,8 @@
 !--Facebook分享按钮
 ||connect.facebook.*/*/sdk.js^
 !--jiathis加网
-||jiathis.com/code/*
-||jiathis.com/resource/images/banner/*
+||jiathis.com/code/
+||jiathis.com/resource/images/banner/
 !--QQ空间点赞按钮
 ||qzonestyle.gtimg.cn/qzone/app/qzlike/qzopensl.js
 !--QQ空间分享按钮
@@ -51,20 +50,20 @@
 !--Twitter分享按钮
 ||platform.twitter.com/widgets.js
 !------网站订阅代码
-||feedburner.com$third-party
-||feedsky.com$third-party
+||feedburner.$third-party
+||feedsky.$third-party
 !--百度网盘新手引导
 ||pan.baidu.com/res/static/js/ui/newhandTips.js^
 !--百度博彩广告
 ||wanba.baidu.com
 !--Filext网站图片广告(TODO 可能误杀，待排查)
-||filext.com/assets*graphics*
+||filext.com/assets*graphics
 !--导致卡饭访问变慢的脚本
 ||fj.ikafan.com/1/common_extra.js
 !--LastPass管理面板广告
-||lastpass.com/images/ads*
+||lastpass.com/images/ads
 !--Windows优化大师
-||img.wopti.net/vote/*
+||img.wopti.net/vote/
 !--色影无忌
 ||forum.xitek.com/xml/flash.swf
 !--炫电影
