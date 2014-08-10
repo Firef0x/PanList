@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 20140805
+! Version: 20140810
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/list
-! Last Modified: 05 Aug 2014 08:30 UTC
+! Last Modified: 10 Aug 2014 10:04 UTC
 !------------------------------------------
 !---------------------通用广告规则
 !--工口网站
@@ -68,6 +68,14 @@
 ||forum.xitek.com/xml/flash.swf
 !--炫电影
 ||www.xuandy.com/wp-content/themes/inews-v2/image/body.png
+!------非浏览器程序广告
+!--FMRTE 禁止升级（ADM专用）
+||fmrte.com/updates/
+!--FM Genie Scout广告（ADM专用）
+||stamatiskritikos.com/gs14/
+!--为知笔记升级广告（ADM专用）
+||wiz.cn/*/ad.jpg^
+wiz.##li#wl-ngv-entps-srv
 !----------------(End)特定广告规则
 !---------------------元素隐藏规则
 !------网站分享代码
