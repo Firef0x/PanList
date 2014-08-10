@@ -1,0 +1,96 @@
+G.com/js/data*.js
+G.com/js/top.js
+Gaddthis.
+Gbshare.
+Gfeedburner.com
+Gfeedsky.com
+Gfilext.com/assets*graphics
+Gfmrte.com/updates/
+Gjiathis.com/code/
+Gjsfile*.duapp.com
+Gplatform.twitter.com/widgets.js
+Gredirect.simba.taobao.com
+Gshare.baidu.com/static/
+Gstamatiskritikos.com/gs14/
+<div class="side-btns-2wm"
+2forum.xda-developers.com
+Bjiathis.com/resource/images/banner/
+Bwiz.cn/*/ad.jpg
+E/js/plusone.js
+I<div *class="forumbox
+I<div *class="x-tip-content-box"
+I<div class="allow_reg">
+I<div class="center margintop border clear menu">
+I<div class="popup-reg-mask"
+I<div class="sd">
+I<div class="show_ad
+I<div id="forumbox_zxy" class="forumbox">
+I<div id="g-popup-reg"
+O<div class="gg_all"
+P.ad_body {display:none !important;}
+G180.76.2.18
+G50bang.org
+G51yes.com
+G99click.com
+Gacs86.com
+Gadmaster.com.cn
+Gamung.
+Gblog104.com
+Gblogtw.net
+Gclicki.cn
+Gcnzz.
+Gdatamaster.com.cn
+Geyeota.net
+Ggridsum.com
+Ghistats.
+Ghotrank.com.tw
+Girs01.
+Girs09.com
+Gjiankongbao.com
+Gjs.51.la
+Glinezing.
+Gmmstat.com
+Goadz.com
+Gphpstat.com
+Gpixanalytics.com
+Gscorecardresearch.
+Gsitebot.cn
+Gtop-bloggers.com
+Gtovery.net
+Gusers.51.la
+Gvdoing.com
+Gwrating.
+Galipay.com/common/um/lsa.swf
+Gbaidu.com/cpro/ui/c.js
+Gbaidu.com/cpro/ui/f.js
+Gbaidu.com/h.js?
+Gbaidu.com/hm.gif?
+Gbaidu.com/js/m.js
+Gbaidu.com/js/o.js
+Gbokecc.com/flash/playlog?
+Gbokecc.com/flash/timerecorder?
+Gcbsi.com.cn/js/dw.js
+Gcdnmaster.com/sitemaster/sm360.js
+Gclick.bokecc.com
+Gcnzz.com/c.php?
+Gcounter.csdn.net/*.js
+Gcri.cn/js/a1.js
+Gcsdn.net/*/counter.js
+Getwun.com:8080/counter.php?
+Gifengimg.com/sta_collection.*.js
+Gjs.letvcdn.com/js/*/stats/
+Gjs.static.m1905.cn/pingd.js
+Glog.hiiir.com
+Glog.v.iask.com
+Gp.tanx.com
+Gsitemaji.com/nownews.php?
+Gt.hypers.com.cn
+Gtns.simba.taobao.com
+Gtoruk.tanx.com
+Gtrack.ra.icast.cn
+Gtracking.cat898.com
+Gtraffic.bokecc.com
+Gv.emedia.cn
+Gwebterren.com/webdig.js?
+Gyigouw.com/c.js
+Lif(__amscript_cd("douban.")){init_popup=function(){};show_popup=function(){};};
