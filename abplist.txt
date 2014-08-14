@@ -3,14 +3,14 @@
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/list
-! Last Modified: 10 Aug 2014 10:04 UTC
+! Last Modified: 15 Aug 2014 01:36 +0800
 !------------------------------------------
 !---------------------通用广告规则
 !--工口网站
+.com/js/config.js
 .com/js/data*.js
-.com/js/top.js
 !--Google Plus
-||/js/plusone.js
+/js/plusone.js
 !--百度网盘统计(来自 http://tieba.baidu.com/p/2540618235?pid=37526754124#37526754124)
 ||*monitor.jpg?xcode
 !----------------(End)通用广告规则
@@ -94,12 +94,15 @@ wiz.##li#wl-ngv-entps-srv
 !--百度网盘新手引导
 pan.baidu.com##.b-dialog.alert-dialog1.newhand-tips-dialog
 !--凤凰网关注微信
-ifeng.com###wx
+ifeng.com##.z_menu
+ifeng.com##.weix
 pcbeta.com###sitefocus
 !--PCBeta关注微信
 pcbeta.com###weixinqr
 !--新浪网关注微信
 sina.com.cn##.side-btns-2wm
+!--腾讯网关注微信
+qq.com^##.sideBarEwmDiv
 !----------------(End)元素隐藏规则
 !---------------------危险网站阻止规则
 !--贴吧XSS跨站攻击
@@ -113,20 +116,20 @@ sina.com.cn##.side-btns-2wm
 ||50bang.org^$third-party
 ||51yes.com^$third-party
 ||99click.com^$third-party
-||acs86.com^$third-party
+!--||acs86.com^$third-party
 ||admaster.com.cn^$third-party
 ||blog104.com^$third-party
 ||blogtw.net^$third-party
 ||clicki.cn^$third-party
 ||cnzz.net^$third-party
 ||datamaster.com.cn^$third-party
-||eyeota.net^$third-party
+!--||eyeota.net^$third-party
 ||gridsum.com^$third-party
 ||hotrank.com.tw^$third-party
 ||irs01.$third-party
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
-||mmstat.com^$third-party
+!--||mmstat.com^$third-party
 ||oadz.com^$third-party
 ||phpstat.com^$third-party
 ||pixanalytics.com^$third-party
@@ -151,12 +154,12 @@ sina.com.cn##.side-btns-2wm
 ||cbsi.com.cn/js/dw.js
 ||cdn.hiido.cn^$third-party
 ||cdnmaster.com/sitemaster/sm360.js
-||click.bokecc.com^
+!--||click.bokecc.com^
 ||cms.grandcloud.cn^$third-party
 ||cnzz.com/c.php?
 ||counter.csdn.net^$script
 ||cri.cn/js/a1.js
-||csbew.com^$third-party
+!--||csbew.com^$third-party
 ||csdn.net^*/counter.js
 ||css.aliyun.com^$third-party
 ||dw.cbsi.com.cn^$third-party
@@ -164,7 +167,7 @@ sina.com.cn##.side-btns-2wm
 ||ifengimg.com/sta_collection.*.js
 ||js.letvcdn.com/js/*/stats/
 ||js.static.m1905.cn/pingd.js
-||log.hiiir.com^
+!--||log.hiiir.com^
 ||log.v.iask.com^
 ||look.urs.tw^$third-party
 ||mlt01.com/cmp.htm$third-party
@@ -208,13 +211,13 @@ sina.com.cn##.side-btns-2wm
 ||cri.cn/a1.js
 ||cri.cn/wrating.js
 ||dayoo.com/sta/da.js
-||dc.letv.com^
+!--||dc.letv.com^
 ||dj.renren.com^
 ||docin.com/app/playerLoadLog/
 ||dui.lu/index.php/stat/
 ||dui.lu/staticts.html
 ||duowan.com/duowan.js
-||duowan.com/public/s/market_count.js
+!--||duowan.com/public/s/market_count.js
 ||dwtracking.sdo.com^
 ||eastmoney.com/counter.js?
 ||ebook.tianya.cn/js/stat.js
@@ -248,7 +251,7 @@ sina.com.cn##.side-btns-2wm
 ||pingjs.qq.com^
 ||pv.sogou.com^
 ||qq.com/p?
-||ranking.ynet.com^
+!--||ranking.ynet.com^
 ||rcgi.video.qq.com^
 ||report.qq.com^
 ||rgd.com.cn/counter/
@@ -276,7 +279,7 @@ sina.com.cn##.side-btns-2wm
 ||stat.tudou.com^
 ||stat.uuu9.com^
 ||stat.xunlei.com^
-||stat.zol.com.cn^
+!--||stat.zol.com.cn^
 ||static.qiyi.com/js/pingback/
 ||statistic.qzone.qq.com^
 ||stats.tudou.com^
@@ -290,7 +293,7 @@ sina.com.cn##.side-btns-2wm
 ||unstat.baidu.com^$~subdocument
 ||utrack.hexun.com^
 ||v.blog.sohu.com/dostat.do?
-||valf.atm.youku.com^
+!--||valf.atm.youku.com^
 ||vatrack.hinet.net^
 ||weather.com.cn/a1.js
 ||webclick.yeshj.com^

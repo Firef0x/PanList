@@ -1,5 +1,5 @@
+G.com/js/config.js
 G.com/js/data*.js
-G.com/js/top.js
 Gaddthis.
 Gbshare.
 Gfeedburner.com
@@ -94,3 +94,9 @@ Gv.emedia.cn
 Gwebterren.com/webdig.js?
 Gyigouw.com/c.js
 Lif(__amscript_cd("douban.")){init_popup=function(){};show_popup=function(){};};
+Lif(__amscript_cd("ifeng.com")){__amscript_wc('.z_menu {display:none;}');};
+Lif(__amscript_cd("ifeng.com")){__amscript_wc('.weix {display:none;}');};
+Lif(__amscript_cd("pan.baidu.com")){__amscript_wc('.b-dialog.alert-dialog1.newhand-tips-dialog {display:none;}');};
+Lif(__amscript_cd("pcbeta.com")){__amscript_wc('#weixinqr {display:none;}');};
+Lif(__amscript_cd("sina.com.cn")){__amscript_wc('.side-btns-2wm {display:none;}');};
+Lif(__amscript_cd("qq.com")){__amscript_wc('.sideBarEwmDiv {display:none;}');};
