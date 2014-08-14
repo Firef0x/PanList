@@ -3,10 +3,10 @@
 ! Title: [proxy]GFWList Plus
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/list
-! Last Modified: 04 Aug 2014 17:20 UTC
+! Last Modified: 15 Aug 2014 01:17 +0800
 !------------------------------------------
 ! GFWList Plus 
-! Last Modified: Sun, 8 Jun 2014 23:59:06 +0800
+! Last Modified: Sun, 14 Jul 2014 00:28:35 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -40,9 +40,12 @@ cdn.sstatic.net
 !--------------------GG--------------------
 !--MyEclipse
 ||genuitec.com
+||ggpht.com
+||gmail.com
 ||goo.gl
 ||googleadservices.com
 ||googletagservices.com
+||googleapis.com
 
 !--------------------HH--------------------
 
@@ -73,6 +76,7 @@ cdn.sstatic.net
 !--------------------RR--------------------
 
 !--------------------SS--------------------
+||sourceforge.jp
 
 !--------------------TT--------------------
 ||tmagazine.com
