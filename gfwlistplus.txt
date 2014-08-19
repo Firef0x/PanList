@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Version: 20140804a
+! Version: 20140819
 ! Title: [proxy]GFWList Plus
 ! Expires: 14 days (update frequency)
-! Homepage: http://git.io/list
-! Last Modified: 15 Aug 2014 01:17 +0800
+! Homepage: http://git.io/f0x
+! Last Modified: 19 Aug 2014 23:35 +0800
 !------------------------------------------
 ! GFWList Plus 
 ! Last Modified: Sun, 14 Jul 2014 00:28:35 +0800
@@ -21,8 +21,7 @@
 ||akamaihd.net
 
 !--------------------BB--------------------
-!--Bit Torrent Resource Site
-||bittorrent.am
+!--||bittorrent.am
 
 !--------------------CC--------------------
 !--StackOverflow/StackExchange CDN(See https://code.google.com/p/autoproxy-gfwlist/issues/detail?id=85)
@@ -38,8 +37,7 @@ cdn.sstatic.net
 !--------------------FF--------------------
 
 !--------------------GG--------------------
-!--MyEclipse
-||genuitec.com
+!--||genuitec.com
 ||ggpht.com
 ||gmail.com
 ||goo.gl
