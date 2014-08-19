@@ -1,20 +1,20 @@
 [Adblock Plus 1.1]
-! Version: 20140810
+! Version: 20140819
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
-! Homepage: http://git.io/list
-! Last Modified: 15 Aug 2014 01:36 +0800
+! Homepage: http://git.io/f0x
+! Last Modified: 19 Aug 2014 23:36 +0800
 !------------------------------------------
-!---------------------通用广告规则
+!---------------------通用广告规则---------
 !--工口网站
 .com/js/config.js
 .com/js/data*.js
-!--Google Plus
+!--Google Plus(apis.google.com 及其镜像站点)
 /js/plusone.js
 !--百度网盘统计(来自 http://tieba.baidu.com/p/2540618235?pid=37526754124#37526754124)
 ||*monitor.jpg?xcode
-!----------------(End)通用广告规则
-!---------------------特定广告规则
+!----------------(End)通用广告规则---------
+!---------------------特定广告规则---------
 !------网站统计代码
 ||amung.$third-party
 ||google-analytics.com^$script
@@ -76,8 +76,8 @@
 !--为知笔记升级广告（ADM专用）
 ||wiz.cn/*/ad.jpg^
 wiz.##li#wl-ngv-entps-srv
-!----------------(End)特定广告规则
-!---------------------元素隐藏规则
+!----------------(End)特定广告规则---------
+!---------------------元素隐藏规则---------
 !------网站分享代码
 !--Twitter分享按钮
 ##.twitter-share-button
@@ -103,12 +103,36 @@ pcbeta.com###weixinqr
 sina.com.cn##.side-btns-2wm
 !--腾讯网关注微信
 qq.com^##.sideBarEwmDiv
-!----------------(End)元素隐藏规则
-!---------------------危险网站阻止规则
-!--贴吧XSS跨站攻击
+!----------------(End)元素隐藏规则---------
+!---------------------危险网站阻止规则-----
+!--百度贴吧XSS跨站攻击
 ||jsfile*.duapp.com
-!----------------(End)危险网站阻止规则
-!---------------------摘自EasyPrivacy
+!----------------(End)危险网站阻止规则-----
+!---------------------摘自EasyPrivacy------
+!-----------------Third-party tracking domains-----------------!
+! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
+!--egotastic.com统计代码
+||mybloglog.com^$third-party
+||track.mybloglog.com^
+!-----------------Individual tracking systems-----------------!
+! *** easylist:easyprivacy/easyprivacy_specific.txt ***
+||bbc.co.uk/analytics?
+||bbc.co.uk/cbbc/statstracker/
+||bbc.co.uk/click/img/
+||bbc.co.uk/zaguk.gif?
+||bbc.co.uk^*/linktrack.js
+||bbc.co.uk^*/livestats.js
+||bbc.co.uk^*/livestats_v1_1.js
+||bbc.co.uk^*/tracker.js
+||bbc.co.uk^*/vs.js
+||dailymail.co.uk/tracking/
+||rta.dailymail.co.uk^
+||sa.bbc.co.uk^
+||sa.bbc.com^
+||stats.bbc.co.uk^
+||t.dailymail.co.uk^
+||ted.dailymail.co.uk^
+||telegraph.co.uk^*/tmglmultitrackselector.js
 !-----------------International third-party tracking domains-----------------!
 ! *** easylist:easyprivacy/easyprivacy_trackingservers_international.txt ***
 ! Chinese
@@ -303,5 +327,5 @@ qq.com^##.sideBarEwmDiv
 ||youdao.com/cf.gif?
 ||youdao.com/imp/cac.js
 ||youku.com/compvlog?
-!----------------(End)摘自EasyPrivacy
+!----------------(End)摘自EasyPrivacy------
 !-------------------EOF--------------------
