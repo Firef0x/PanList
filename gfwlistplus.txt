@@ -6,7 +6,7 @@
 ! Last Modified: 19 Aug 2014 23:35 +0800
 !------------------------------------------
 ! GFWList Plus 
-! Last Modified: Sun, 14 Jul 2014 00:28:35 +0800
+! Last Modified: Sat, 22 Aug 2014 23:30:48 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -37,7 +37,6 @@ cdn.sstatic.net
 !--------------------FF--------------------
 
 !--------------------GG--------------------
-!--||genuitec.com
 ||ggpht.com
 ||gmail.com
 ||goo.gl
