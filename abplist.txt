@@ -92,7 +92,9 @@ wiz.##li#wl-ngv-entps-srv
 !--百度分享
 ##.bdsharebuttonbox.bdshare-button-style1-16
 !--百度网盘新手引导
-pan.baidu.com##.b-dialog.alert-dialog1.newhand-tips-dialog
+baidu.com##.b-dialog.alert-dialog1.newhand-tips-dialog
+!--百度网盘领取2G空间弹出框
+baidu.com###activateGuidePopupOuter
 !--凤凰网关注微信
 ifeng.com##.z_menu
 ifeng.com##.weix
