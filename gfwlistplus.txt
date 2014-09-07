@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Version: 20140819
+! Version: 20140908
 ! Title: [proxy]GFWList Plus
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/f0x
-! Last Modified: 19 Aug 2014 23:35 +0800
+! Last Modified: 08 Sep 2014 00:35 +0800
 !------------------------------------------
 ! GFWList Plus 
 ! Last Modified: Sat, 22 Aug 2014 23:30:48 +0800
@@ -21,15 +21,17 @@
 ||akamaihd.net
 
 !--------------------BB--------------------
-!--||bittorrent.am
 
 !--------------------CC--------------------
 !--StackOverflow/StackExchange CDN(See https://code.google.com/p/autoproxy-gfwlist/issues/detail?id=85)
 cdn.sstatic.net
+||chromeexperiments.com
+||chromium.org
 
 !--------------------DD--------------------
 
 !--------------------EE--------------------
+||earthengine.google.org
 ||efmoe.com
 ||elementaryos.org
 ||echocore.org
@@ -67,6 +69,7 @@ cdn.sstatic.net
 
 !--------------------PP--------------------
 ||paddle.com
+||panoramio.com
 
 !--------------------QQ--------------------
 
@@ -88,6 +91,7 @@ cdn.sstatic.net
 !--||wikimedia.org
 !--.wikipedia.org
 !--||wikipedia.org
+||withgoogle.com
 
 !--------------------XX--------------------
 
@@ -102,6 +106,7 @@ cdn.sstatic.net
 @@clients2.googleusercontent.com
 @@browsersync.google.com
 @@browsersync.l.google.com
+@@||upload.docs.google.com
 @@nike.com
 @@nikeplus.com
 !-------------------EOF--------------------
