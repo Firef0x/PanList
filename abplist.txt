@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 20140819
+! Version: 20140909
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/f0x
-! Last Modified: 19 Aug 2014 23:36 +0800
+! Last Modified: 09 Sep 2014 04:55 +0800
 !------------------------------------------
 !---------------------通用广告规则---------
 !--工口网站
@@ -26,9 +26,6 @@
 !------网站分享代码
 !--Addthis
 ||addthis.$third-party
-!--百度分享
-||api.share.baidu.com
-||share.baidu.com/static/
 !--bShare分享
 ||bshare.$third-party
 !--Facebook分享按钮
@@ -54,8 +51,6 @@
 ||feedsky.$third-party
 !--百度网盘新手引导
 ||pan.baidu.com/res/static/js/ui/newhandTips.js^
-!--百度博彩广告
-||wanba.baidu.com
 !--Filext网站图片广告(TODO 可能误杀，待排查)
 ||filext.com/assets*graphics
 !--导致卡饭访问变慢的脚本
@@ -266,7 +261,6 @@ qq.com^##.sideBarEwmDiv
 ||logstat.caixin.com^
 ||luobo.tv/staticts.html
 ||narutom.com/stat.js
-||nsclick.baidu.com^
 ||nstat.tudou.com^
 ||on.cc^*/checkrev.gif?
 ||p-log.ykimg.com^
@@ -284,7 +278,6 @@ qq.com^##.sideBarEwmDiv
 ||s.pixfs.net/js/pixlogger.min.js
 ||s.pixfs.net/visitor.pixplug.in/
 ||s.renren.com^
-||sclick.baidu.com^
 ||sinajs.cn/open/analytics/
 ||sohu.com.cn/hdpb.gif?
 ||sohu.com/ctr.gif?
