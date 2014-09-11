@@ -1,0 +1,114 @@
+[AutoProxy 0.2.9]
+! Checksum: OAFXucm4qmc2tIFTF1vwKg
+! Version: 20140911
+! Title: [proxy]GFWList Plus
+! Expires: 14 days (update frequency)
+! Homepage: http://git.io/f0x
+! Last Modified: 11 Sep 2014 21:35 +0800
+!------------------------------------------
+! GFWList Plus 
+! Last Modified: Mon, 9 Sep 2014 18:06:34 +0800
+!----------------Restricted----------------
+||aarki.net
+||altrec.com
+||flipboard.com
+||ign.com
+||paddle.com
+/^https?:\/\/[^\/]+pandora\.com/
+||rdio.com
+.spotify.com
+/^https?:\/\/[^\/]+slacker\.com/
+
+!--------------------AA--------------------
+||akamaihd.net
+
+!--------------------BB--------------------
+
+!--------------------CC--------------------
+!--StackOverflow/StackExchange CDN(See https://code.google.com/p/autoproxy-gfwlist/issues/detail?id=85)
+cdn.sstatic.net
+||chromeexperiments.com
+||chromium.org
+
+!--------------------DD--------------------
+
+!--------------------EE--------------------
+||earthengine.google.org
+||efmoe.com
+||elementaryos.org
+||echocore.org
+
+!--------------------FF--------------------
+
+!--------------------GG--------------------
+||ggpht.com
+||gmail.com
+||goo.gl
+||googleadservices.com
+||googletagservices.com
+||googleapis.com
+
+!--------------------HH--------------------
+
+!--------------------II--------------------
+
+!--------------------JJ--------------------
+
+!--------------------KK--------------------
+
+!--------------------LL--------------------
+||leagueoflegends.com
+
+!--------------------MM--------------------
+||microsofttranslator.com
+||minus.com
+||my1510.com
+
+!--------------------NN--------------------
+/^https?:\/\/ntdtv\.com(?::\d+)?\//
+
+!--------------------OO--------------------
+
+!--------------------PP--------------------
+||panoramio.com
+
+!--------------------QQ--------------------
+
+!--------------------RR--------------------
+
+!--------------------SS--------------------
+||sourceforge.jp
+
+!--------------------TT--------------------
+||tmagazine.com
+||tvb.com
+
+!--------------------UU--------------------
+!--/^https?:\/\/userscripts\.org(?::8080)?\//
+
+!--------------------VV--------------------
+
+!--------------------WW--------------------
+!--||wikimedia.org
+!--.wikipedia.org
+!--||wikipedia.org
+||withgoogle.com
+
+!--------------------XX--------------------
+
+!--------------------YY--------------------
+||youtu.be
+
+!--------------------ZZ--------------------
+
+!----------------Whitelist-----------------
+@@chrome.google.com
+@@clients3.google.com
+@@clients4.google.com
+@@clients2.googleusercontent.com
+@@browsersync.google.com
+@@browsersync.l.google.com
+@@||upload.docs.google.com
+@@nike.com
+@@nikeplus.com
+!-------------------EOF--------------------
