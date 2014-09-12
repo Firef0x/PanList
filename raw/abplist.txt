@@ -1,5 +1,4 @@
 [Adblock Plus 1.1]
-! Checksum: /uxlx806nopWQbRjBwMjjQ
 ! Version: 20140909
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
