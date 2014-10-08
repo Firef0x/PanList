@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 20140909
+! Version: 20141009
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/f0x
-! Last Modified: 09 Sep 2014 04:55 +0800
+! Last Modified: 09 Oct 2014 00:17 +0800
 !------------------------------------------
 !---------------------通用广告规则---------
 !--工口网站
@@ -85,6 +85,7 @@ wiz.##li#wl-ngv-entps-srv
 !--17173
 ##.win17173.maximize.singles
 !--百度分享
+##.bdsharebuttonbox.bdshare-button-style0-24
 ##.bdsharebuttonbox.bdshare-button-style1-16
 !--百度网盘新手引导
 baidu.com##.b-dialog.alert-dialog1.newhand-tips-dialog
