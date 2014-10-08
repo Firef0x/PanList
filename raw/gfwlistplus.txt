@@ -1,12 +1,12 @@
 [AutoProxy 0.2.9]
-! Version: 20140913
+! Version: 20141005
 ! Title: [proxy]GFWList Plus
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/f0x
-! Last Modified: 13 Sep 2014 23:55 +0800
+! Last Modified: 5 Oct 2014 00:17 +0800
 !------------------------------------------
 ! GFWList Plus 
-! Last Modified: Sat, 13 Sep 2014 12:04:02 +0800
+! Last Modified: Sat, 5 Oct 2014 00:17:52 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -50,6 +50,8 @@ cdn.sstatic.net
 !--------------------HH--------------------
 
 !--------------------II--------------------
+|instagram.com
+|*instagram.com
 
 !--------------------JJ--------------------
 
