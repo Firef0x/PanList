@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 20141009
+! Version: 20141228
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/f0x
-! Last Modified: 09 Oct 2014 00:17 +0800
+! Last Modified: 28 Dec 2014 18:17 +0800
 !------------------------------------------
 !---------------------通用广告规则---------
 !--工口网站
@@ -105,6 +105,9 @@ qq.com^##.sideBarEwmDiv
 !---------------------危险网站阻止规则-----
 !--百度贴吧XSS跨站攻击
 ||jsfile*.duapp.com
+!--太平洋电脑网导致FireFox无限循环、内存泄露、网络占满(来自 http://tieba.baidu.com/p/3416702057?pid=60657979031#60657979031)
+||jwz.3conline.com/adpuba^
+||ivy.pconline.com.cn/adpuba^
 !----------------(End)危险网站阻止规则-----
 !---------------------摘自EasyPrivacy------
 !-----------------Third-party tracking domains-----------------!
