@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 20150217
+! Version: 20150222
 ! Title: Firef0x AdBlock List
 ! Expires: 14 days (update frequency)
 ! Homepage: http://git.io/f0x
-! Last Modified: 17 Feb 2015 23:23 +0800
+! Last Modified: 22 Feb 2015 23:03 +0800
 !------------------------------------------
 !---------------------通用广告规则---------[[[1
 !--工口网站
@@ -109,21 +109,6 @@ qq.com##.sideBarEwmDiv
 ||ivy.pconline.com.cn/adpuba^
 !----------------(End)危险网站阻止规则-----]]]
 !---------------------摘自 EasyPrivacy-----[[[1
-!-----------------General tracking systems-----------------![[[2
-! *** easylist:easyprivacy/easyprivacy_general.txt ***
-.cc/s.gif?
-.cn/1.gif?
-.cn/a.gif?
-.cn/b.gif?
-.cn/r.gif?
-.cn/s.gif?
-.cn/z.gif?
-!--百度、酷6、fc2 等的跟踪代码
-.com/pv.gif?
-!--酷6的跟踪代码
-.com/www.gif?
-/tongji.js
-!-]]]
 !-----------------Third-party tracking domains-----------------![[[2
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ||amung.us^$third-party
@@ -136,7 +121,6 @@ qq.com##.sideBarEwmDiv
 !--Tumblr 跟踪代码
 ||cookiex.ngd.yahoo.com^
 ||footballmedia.com/tracking/
-||web1.51.la^
 !-]]]
 !-----------------Individual tracking systems-----------------![[[2
 ! *** easylist:easyprivacy/easyprivacy_specific.txt ***
@@ -161,11 +145,6 @@ qq.com##.sideBarEwmDiv
 ||telegraph.co.uk^*/tmglmultitrackselector.js
 ||tumblr.com/analytics.html
 ||tumblr.com/impixu?
-!-]]]
-!-----------------International individual tracking systems-----------------![[[2
-! *** easylist:easyprivacy/easyprivacy_specific_international.txt ***
-! Chinese
-||analytics.163.com^
 !-]]]
 !----------------(End)摘自EasyPrivacy------]]]
 !---------------------Vim Modeline---------[[[1
